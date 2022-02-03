@@ -1,0 +1,51 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 3293812967805898310
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 4438027522659420722
+    },
+    "m_Name": "",
+    "_uiAnimation": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_scrollView": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_scrollViewRect": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_bgClickable": 1,
+    "_backKeyEnabled": 1,
+    "_touchableElements": [],
+    "DataCache": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_rankingAnimationObj": {
+        "m_FileID": 0,
+        "m_PathID": 1235780612551983513
+    },
+    "_rankingAnimation": {
+        "m_FileID": 0,
+        "m_PathID": -7483693134422337915
+    },
+    "_emblemSprites": {
+        "m_FileID": 0,
+        "m_PathID": -5740924464381336409
+    },
+    "_tweensAfterEmblemAnimation": {
+        "m_FileID": 0,
+        "m_PathID": -8390754128313624254
+    },
+    "_rankingText": {
+        "m_FileID": 0,
+        "m_PathID": 5789666652805878481
+    }
+}

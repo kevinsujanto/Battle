@@ -1,0 +1,82 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 9088995534252436252
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -3401856131147026245
+    },
+    "m_Name": "",
+    "_num": {
+        "m_FileID": 0,
+        "m_PathID": 760486947170137367
+    },
+    "_numbers": [
+        {
+            "m_FileID": 13,
+            "m_PathID": -2557681826500182069
+        },
+        {
+            "m_FileID": 13,
+            "m_PathID": -1769013582238243632
+        },
+        {
+            "m_FileID": 13,
+            "m_PathID": 468652996058551121
+        },
+        {
+            "m_FileID": 13,
+            "m_PathID": 8670176896920270897
+        },
+        {
+            "m_FileID": 13,
+            "m_PathID": -2851718084255828810
+        },
+        {
+            "m_FileID": 13,
+            "m_PathID": -6849378619719653818
+        },
+        {
+            "m_FileID": 13,
+            "m_PathID": -6886185676501075246
+        },
+        {
+            "m_FileID": 13,
+            "m_PathID": 54968765720094513
+        },
+        {
+            "m_FileID": 13,
+            "m_PathID": 7911824067892541825
+        },
+        {
+            "m_FileID": 13,
+            "m_PathID": -4953356658728091463
+        }
+    ],
+    "_canvasGroup": {
+        "m_FileID": 0,
+        "m_PathID": 3602366185303687851
+    },
+    "_grid": {
+        "m_FileID": 0,
+        "m_PathID": 5946527681241693124
+    },
+    "_weak": {
+        "m_FileID": 0,
+        "m_PathID": -3138240049255401211
+    },
+    "_guard": {
+        "m_FileID": 0,
+        "m_PathID": 3754690361206256877
+    },
+    "_critical": {
+        "m_FileID": 0,
+        "m_PathID": 2478208134742087143
+    },
+    "_damageUp": {
+        "m_FileID": 0,
+        "m_PathID": 3669911694655096670
+    }
+}

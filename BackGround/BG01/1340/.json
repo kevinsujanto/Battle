@@ -1,0 +1,26 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": -2063308532393247314
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 6462678417039192659
+    },
+    "m_Name": "",
+    "_backGrounds": [
+        {
+            "m_FileID": 0,
+            "m_PathID": -3619473216971497605
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -6655360008353581843
+        },
+        {
+            "m_FileID": 0,
+            "m_PathID": -152322907257700546
+        }
+    ]
+}

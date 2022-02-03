@@ -1,0 +1,19 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": -6780216247387862201
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -4684950908822974030
+    },
+    "m_Name": "",
+    "_particleSystem": {
+        "m_FileID": 0,
+        "m_PathID": 9035661836565969865
+    },
+    "_effectLength": 3.0,
+    "_deleteTime": 5.0,
+    "_soundId": 0
+}

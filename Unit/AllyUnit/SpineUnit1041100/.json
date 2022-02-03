@@ -1,0 +1,64 @@
+{
+    "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": -598732255518905375
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 1261924317421673712
+    },
+    "m_Name": "",
+    "UiParent": {
+        "m_FileID": 0,
+        "m_PathID": -1885262189021636061
+    },
+    "_hpBar": {
+        "m_FileID": 0,
+        "m_PathID": 1740098358873066116
+    },
+    "HpBarSpriteChange": {
+        "m_FileID": 0,
+        "m_PathID": -6554095675457982966
+    },
+    "_innerHpBar": {
+        "m_FileID": 0,
+        "m_PathID": 6250649767330015187
+    },
+    "InnerHpBarSpriteChange": {
+        "m_FileID": 0,
+        "m_PathID": -4594495577329334870
+    },
+    "_multiBossHpBar": {
+        "m_FileID": 0,
+        "m_PathID": 0
+    },
+    "_spBar": {
+        "m_FileID": 0,
+        "m_PathID": -7368671257961279776
+    },
+    "_timerGraph": {
+        "m_FileID": 0,
+        "m_PathID": 3401361413855337891
+    },
+    "_timerWrapper": {
+        "m_FileID": 0,
+        "m_PathID": 7020676315338580816
+    },
+    "StateIconLine": {
+        "m_FileID": 0,
+        "m_PathID": 4497655420206123415
+    },
+    "IconBase": {
+        "m_FileID": 0,
+        "m_PathID": -2916398615622823371
+    },
+    "Ok": {
+        "m_FileID": 0,
+        "m_PathID": 4832026943171899039
+    },
+    "OkAnimation": {
+        "m_FileID": 0,
+        "m_PathID": 6727979431545559380
+    }
+}
